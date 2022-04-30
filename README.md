@@ -6,5 +6,5 @@
 
 A Visual Studio 2022 project with bare bones functionality to load shaders form files and display a window.
 
-#TODO:
+## TODO:
 1. Make a exaple game.
