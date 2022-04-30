@@ -1,8 +1,10 @@
 # Bare-Bones-Opengl-Project
 > VS version: 2022,
+
 > GL version: 3.3,
-> GL LOADER: glad,
-> GLAD version: 0.1.35,
+>> GL LOADER: glad,
+>>> GLAD version: 0.1.35,
+
 > PROJECT STRUCTURE: model-view-controller
 
 A Visual Studio 2022 project with bare bones functionality to load shaders form files and display a window.
