@@ -155,7 +155,7 @@ int main(void)
 
 	//Set the clear color.
 	glClearColor(1.0f, 0.0f, 0.0f, 0.0f);
-	//Create the main loop tha terminates if the window should close.
+	//Create the main loop that terminates if the window should close.
 	while (!glfwWindowShouldClose(window))
 	{
 		//Set the memory address of the clear color buffer bit for glad.
